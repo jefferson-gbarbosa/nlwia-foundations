@@ -33,6 +33,8 @@ Shorts Summary is a web application to create a summary of short YouTube videos 
 - NodeJs
 - ChatGpt
 - Axios
+- Vite
+- Json
 
 ## Author
 
